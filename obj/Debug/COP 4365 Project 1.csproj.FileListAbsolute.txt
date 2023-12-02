@@ -1,0 +1,12 @@
+C:\Users\confi\OneDrive\Documents\Current classes\COP 4365\Project 1\obj\Debug\COP 4365 Project 1.csproj.AssemblyReference.cache
+C:\Users\confi\OneDrive\Documents\Current classes\COP 4365\Project 1\obj\Debug\COP_4635_Project_1.dojiChart.resources
+C:\Users\confi\OneDrive\Documents\Current classes\COP 4365\Project 1\obj\Debug\COP_4635_Project_1.Form1.resources
+C:\Users\confi\OneDrive\Documents\Current classes\COP 4365\Project 1\obj\Debug\COP_4635_Project_1.Form2.resources
+C:\Users\confi\OneDrive\Documents\Current classes\COP 4365\Project 1\obj\Debug\COP_4365_Project_1.Properties.Resources.resources
+C:\Users\confi\OneDrive\Documents\Current classes\COP 4365\Project 1\obj\Debug\COP 4365 Project 1.csproj.GenerateResource.cache
+C:\Users\confi\OneDrive\Documents\Current classes\COP 4365\Project 1\obj\Debug\COP 4365 Project 1.csproj.CoreCompileInputs.cache
+C:\Users\confi\OneDrive\Documents\Current classes\COP 4365\Project 1\bin\Debug\COP_4365_Project_1.exe.config
+C:\Users\confi\OneDrive\Documents\Current classes\COP 4365\Project 1\bin\Debug\COP_4365_Project_1.exe
+C:\Users\confi\OneDrive\Documents\Current classes\COP 4365\Project 1\bin\Debug\COP_4365_Project_1.pdb
+C:\Users\confi\OneDrive\Documents\Current classes\COP 4365\Project 1\obj\Debug\COP_4365_Project_1.exe
+C:\Users\confi\OneDrive\Documents\Current classes\COP 4365\Project 1\obj\Debug\COP_4365_Project_1.pdb
